@@ -5,4 +5,4 @@ INDIO
 https://www.canva.com/design/DAFgkkt2npQ/mgjSNzOV17n94LA5_4NrFQ/edit
 
 jogo
-https://scratch.mit.edu/projects/830780219/editor
+https://scratch.mit.edu/projects/830780219
